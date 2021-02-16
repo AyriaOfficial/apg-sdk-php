@@ -35,11 +35,5 @@
     },
     "autoload-dev": {
         "psr-4": { "OpenAPI\\Client\\Test\\" : "test/" }
-    },
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/ayriaofficial/apg-sdk-php.git"
-      }
-    ]
+    }
 }
